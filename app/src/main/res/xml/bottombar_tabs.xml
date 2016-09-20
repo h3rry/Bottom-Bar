@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_favorites"
+        icon="@drawable/ic_action_favorite"
+        title="Favorites" />
+    <tab
+        id="@+id/tab_schedule"
+        icon="@drawable/ic_action_schedule"
+        title="Schedule" />
+    <tab
+        id="@+id/tab_car_wash"
+        icon="@drawable/ic_maps_local_car_wash"
+        title="Car Wash" />
+    <tab
+        id="@+id/tab_whatshot"
+        icon="@drawable/ic_social_whatshot"
+        title="Whats Hot" />
+    <tab
+        id="@+id/tab_tag"
+        icon="@drawable/ic_maps_local_offer"
+        title="Tag" />
+</tabs>
